@@ -1,5 +1,5 @@
 print("DDOS BY ERROR AND KILLNET")
-from user import users #user - название .py файла (в одной папке с скриптом. users - название твоей переменной с агентами.
+import users
 import requests
 from threading import Thread
 import random
